@@ -4,3 +4,4 @@ pip install yt-dlp qrcode pillow
 termux-setup-storage
 npm install -g nodemon tree-sitter-cli
 mv nvim ../.config
+echo "eval '$(zoxide init bash)'" >> ../usr/etc/bash.bashrc
