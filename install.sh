@@ -3,3 +3,4 @@ pkg install -y neovim git curl nodejs-lts python-pip aria2 wget termux-api build
 pip install yt-dlp qrcode pillow
 termux-setup-storage
 npm install -g nodemon tree-sitter-cli
+mv nvim ../.config
